@@ -29,7 +29,7 @@ Brochures are physical artifacts that allow customers to respong to your solutio
 #### Templates
 1. https://www.creativebloq.com/design/brochure-templates-11121360
 
-## UX prototyping
+### UX prototyping
 1. Turn sketches into a cickable app - http://popapp.in
 1. Use keynote to create fake apps - https://keynotopia.com
 
@@ -57,7 +57,7 @@ Try to start actually solving the customer problems
 1. Accept credit cards for pre orders - https://www.trycelery.com
 1. https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend
 
-## SAAS
+### SAAS
 Quickly get a product up running by using subscrption software
 1. Marketplaces - https://www.sharetribe.com
 1. Chatbots - https://chatfuel.com
