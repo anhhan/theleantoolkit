@@ -3,9 +3,23 @@
 1. http://startupstash.com
 
 ## Customer Discovery
+### Learn More
+1. https://thrivethinking.com/2017/01/24/ethnographic-study-the-how-of-customer-intimacy/
 ### Surveys
 #### Tools
 1. https://www.typeform.com
+
+## Insights / Synthesis / So What
+Take all that data, and turn into something a little more tangible. What's your POV and what truth are you grounding this in?
+### Learn More
+1. https://thrivethinking.com/2016/03/28/what-is-insight-definition/
+1. https://thrivethinking.com/2018/05/14/the-innovation-myth/
+1. https://uxdesign.cc/design-thinking-the-insight-gap-97244d3c3041
+### How Might We
+### Problem Hypothesis
+### Jobs To Be Done
+### Design Principles
+
 
 ## Vanity MVP / Pitching / Offer / Sales Kit
 Put something up and get a response. No solution needed.
